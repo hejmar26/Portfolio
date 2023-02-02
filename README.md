@@ -15,11 +15,11 @@ version from the user's perspective.
 
 # Education #
 
-** HIGHER SCHOOL OF BANKING - CHORZÓW **
+**HIGHER SCHOOL OF BANKING - CHORZÓW**
 
 Management - Business Management | 10.2021
 
-** CODERS LAB - IT SCHOOL **
+**CODERS LAB - IT SCHOOL**
 
 Manual Tester - 80 hours | 11.2022-12.2022
 
