@@ -25,11 +25,11 @@ Manual Tester - 80 hours | 11.2022-12.2022
 
 # Experience #
 
-** RADIOLOGY TECHNICIAN/CLINIC MANAGER **
+**RADIOLOGY TECHNICIAN/CLINIC MANAGER**
+
 *HD-Dental Sp. z o.o.| 02.2019 - 06.2022*
 
  Responsibilities: 
-
 * Team management of middle staff.
 * Ensuring the smooth work of 13 people (doctors, assistants, receptionists).
 * Constructing work schedules.
@@ -37,11 +37,11 @@ Manual Tester - 80 hours | 11.2022-12.2022
 * Implementation of computer software for managing the dental office.
 * Performing X-rays and CBCT scans.
 
-** TELEPHONE CONSULTANT **
+**TELEPHONE CONSULTANT**
+
 *Confronter Sp. z o.o. | 01.2016 - 02.2019*
 
 Responsibilities:
-
 * Handling incoming and outgoing calls. 
 * Assessing customer needs.
 * Reporting work time.
