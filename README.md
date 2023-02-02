@@ -15,21 +15,20 @@ version from the user's perspective.
 
 # Education #
 
-HIGHER SCHOOL OF BANKING - CHORZÓW 
+** HIGHER SCHOOL OF BANKING - CHORZÓW **
 
 Management - Business Management | 10.2021
 
-CODERS LAB - IT SCHOOL
+** CODERS LAB - IT SCHOOL **
 
 Manual Tester - 80 hours | 11.2022-12.2022
 
 # Experience #
 
-RADIOLOGY TECHNICIAN/CLINIC MANAGER 
+** RADIOLOGY TECHNICIAN/CLINIC MANAGER **
+*HD-Dental Sp. z o.o.| 02.2019 - 06.2022*
 
-HD-Dental Sp. z o.o.| 02.2019 - 06.2022
-
-* Responsibilities: *
+ Responsibilities: 
 
 * Team management of middle staff.
 * Ensuring the smooth work of 13 people (doctors, assistants, receptionists).
@@ -37,6 +36,15 @@ HD-Dental Sp. z o.o.| 02.2019 - 06.2022
 * Developing procedures for professional patient care.
 * Implementation of computer software for managing the dental office.
 * Performing X-rays and CBCT scans.
+
+** TELEPHONE CONSULTANT **
+*Confronter Sp. z o.o. | 01.2016 - 02.2019*
+
+Responsibilities:
+
+* Handling incoming and outgoing calls. 
+* Assessing customer needs.
+* Reporting work time.
 
 
 
