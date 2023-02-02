@@ -46,5 +46,39 @@ Responsibilities:
 * Assessing customer needs.
 * Reporting work time.
 
+# Tools and Technologies #
+
+* MS Office and Google 
+* Jira
+* DevTools
+* Postman
+* SQL
+
+# Skills #
+* Analytical thinking
+* Ability to work in a team
+* Team management
+* Creating test scenarios and test cases
+* Creating bug reports
+* English - B2
+
+# Courses and Trainings #
+
+* "Basics of manual software testing"  - Udemy
+* "Practical software testing course" - Udemy 
+* "SQL course from scratch | MySQL" - Udemy
+* "API Testing Fundations" - Linkedin Learning Courses®
+
+# Certificates #
+
+* "ISTQB® Fundamental Level certificate (International Software Testing Qualifications Board)
+
+# Bug raports #
+
+
+
+
+
+
 
 
