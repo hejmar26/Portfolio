@@ -29,7 +29,7 @@ Manual Tester - 80 hours | 11.2022-12.2022
 
 *HD-Dental Sp. z o.o.| 02.2019 - 06.2022*
 
- Responsibilities: 
+ Responsibilities:
 * Team management of middle staff.
 * Ensuring the smooth work of 13 people (doctors, assistants, receptionists).
 * Constructing work schedules.
