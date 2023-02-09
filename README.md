@@ -39,8 +39,8 @@ version from the user's perspective.
 * [Basics of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)  - Udemy
 * [Practical software testing course](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy 
 * [SQL course from scratch | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/) - Udemy
-* API Testing Fundations - Linkedin Learning Courses®
 * [GIT Coures for Beginners](https://www.udemy.com/course/kurs-gita/) - Udemy
+* API Testing Fundations - Linkedin Learning Courses®
 
 # Certificates #
 
