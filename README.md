@@ -41,11 +41,15 @@ version from the user's perspective.
 
 * "ISTQB® Fundamental Level certificate (International Software Testing Qualifications Board)
 
+# Test Cases #
+
+[Codibly Website](https://drive.google.com/file/d/1cep-yC145-oVg88FmIMQo0ZQ1CpRTr4W/view?usp=share_link)
+[CodersGuru Website](https://drive.google.com/file/d/1Arj62HBPMA0BEY4r9lMNBj2mwwTQSQ3R/view?usp=share_link)
+
 # Bug reports #
 
-[Coibly Website](https://drive.google.com/file/d/1f-SX1P9CxJIDJLmfJ-crcTRFdU47JHid/view?usp=share_link)
-
-[CodersGuru Website](https://drive.google.com/file/d/10e2JYQWk2qzRJf6sv8j6HU6Xp36vpfdP/view?usp=share_link)
+[Coibly Website Bug Report](https://drive.google.com/file/d/1f-SX1P9CxJIDJLmfJ-crcTRFdU47JHid/view?usp=share_link)
+[CodersGuru Website Bug Resports](https://drive.google.com/file/d/10e2JYQWk2qzRJf6sv8j6HU6Xp36vpfdP/view?usp=share_link)
 
 
 
