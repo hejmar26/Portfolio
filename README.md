@@ -1,6 +1,6 @@
 # Marta Hejmej #
 
-My name is Marta and I am a Beginner Manual Tester. 
+My name is Marta and I am a  Manual Tester. 
 
 I started my IT adventure a few months ago. During this time, I completed the
 Coders Lab - Manual Tester course, where I gained theoretical knowledge about
