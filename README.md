@@ -1,7 +1,5 @@
 # Marta Hejmej #
 
-# About me #
-
 My name is Marta and I am a Beginner Manual Tester. 
 
 I started my IT adventure a few months ago. During this time, I completed the
