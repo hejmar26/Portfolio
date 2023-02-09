@@ -14,30 +14,47 @@ version from the user's perspective.
 # Tools and Technologies #
 
 * MS Office and Google 
-* Jira
-* DevTools
-* Postman
-* SQL
+* Jira 
 
-# Skills #
+* Postman
+* Git
+* SoapUI
+
+# Tech Skills # 
+
+* SQL
+* DevTools
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+
+# Soft Skills #
 * Analytical thinking
 * Ability to work in a team
 * Team management
-* Creating test scenarios and test cases
-* Creating bug reports
 * English - B2
 
 # Courses and Trainings #
 
-* "Basics of manual software testing"  - Udemy
-* "Practical software testing course" - Udemy 
-* "SQL course from scratch | MySQL" - Udemy
-* "API Testing Fundations" - Linkedin Learning Courses®
-* "GIT Coures for Beginners" - Udemy
+* [CodersLab - Manual Tester](https://coderslab.pl/pl/tester-manualny?utm_source=google&utm_medium=cpc&utm_campaign=TXT_BRAND_PRODUKTY&utm_content=OD_PODSTAW&utm_term=coders%20lab%20tester&utm_dvc=c_&utm_match=p&utm_pos=&utm_net=g&utm_plc=&id=124128705300&gclid=CjwKCAiA0JKfBhBIEiwAPhZXD_bVVBayC3dPuv0RQsCTOdT-6gwZ3zApVcJIhglZ0NxsOMiwQQsskxoCfSwQAvD_BwE&utm_adgroup=TEM&gclid=CjwKCAiA0JKfBhBIEiwAPhZXD_bVVBayC3dPuv0RQsCTOdT-6gwZ3zApVcJIhglZ0NxsOMiwQQsskxoCfSwQAvD_BwE)
+* [Basics of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)  - Udemy
+* [Practical software testing course](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy 
+* [SQL course from scratch | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/) - Udemy
+* API Testing Fundations - Linkedin Learning Courses®
+* [GIT Coures for Beginners](https://www.udemy.com/course/kurs-gita/) - Udemy
 
 # Certificates #
 
-* "ISTQB® Fundamental Level certificate (International Software Testing Qualifications Board)
+* ["ISTQB®] (http://scr.istqb.org/?name=Hejmej&number=No19474%2FCTFL%2F2022&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)) No19474/CTFL/2022
+
+# Blogs read #
+
+* testerzy.pl
+* testerka.pl
+* toniebug.pl
+* remigiuszbednarczyk.pl
+
 
 # Test Cases #
 
@@ -50,6 +67,8 @@ version from the user's perspective.
 [Coibly Website Bug Report](https://drive.google.com/file/d/1f-SX1P9CxJIDJLmfJ-crcTRFdU47JHid/view?usp=share_link)
 
 [CodersGuru Website Bug Resports](https://drive.google.com/file/d/10e2JYQWk2qzRJf6sv8j6HU6Xp36vpfdP/view?usp=share_link)
+
+
 
 
 
