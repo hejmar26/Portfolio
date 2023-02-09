@@ -22,7 +22,6 @@ version from the user's perspective.
 
 * SQL
 * DevTools
-* SCRUM
 * Software testing
 * Creating test cases
 * Reporting bugs
@@ -30,6 +29,7 @@ version from the user's perspective.
 # Soft Skills #
 * Analytical thinking
 * Ability to work in a team
+* SCRUM
 * Team management
 * English - B2
 
