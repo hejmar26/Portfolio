@@ -1,7 +1,6 @@
 # Marta Hejmej #
 
 My name is Marta and I am a  Manual Tester. 
-
 I started my IT adventure a few months ago. During this time, I completed the
 Coders Lab - Manual Tester course, where I gained theoretical knowledge about
 testing and learned technologies and tools such as Postman, SQL, and DevTools. 
@@ -12,13 +11,12 @@ create software for managing the finances of a dental office and testing the bet
 version from the user's perspective.
 
 # Tools and Technologies #
-
-* MS Office and Google 
+ 
 * Jira 
-
 * Postman
 * Git
 * SoapUI
+* MS Office and Google
 
 # Tech Skills # 
 
@@ -46,15 +44,20 @@ version from the user's perspective.
 
 # Certificates #
 
-* ["ISTQB®] (http://scr.istqb.org/?name=Hejmej&number=No19474%2FCTFL%2F2022&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)) No19474/CTFL/2022
+* ["ISTQB®] (http://scr.istqb.org/?name=Hejmej&number=No19474%2FCTFL%2F2022&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No19474/CTFL/2022
 
 # Blogs read #
 
-* testerzy.pl
-* testerka.pl
-* toniebug.pl
-* remigiuszbednarczyk.pl
+* [testerzy.pl](https://testerzy.pl/)
+* [testerka.pl](https://testerka.pl/)
+* [toniebug.pl](https://www.toniebug.pl/#services)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 
+# Facebook Groups #
+
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* Testuj, Dziewczyno!
 
 # Test Cases #
 
