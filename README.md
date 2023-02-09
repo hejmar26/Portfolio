@@ -5,7 +5,7 @@ I started my IT adventure a few months ago. During this time, I completed the
 Coders Lab - Manual Tester course, where I gained theoretical knowledge about
 testing and learned technologies and tools such as Postman, SQL, and DevTools. 
 I earned an ISTQB certificate and continued to improve my skills through various
-online courses, including Udemy.I am a careful, hardworking and highly motivated
+online courses, including Udemy. I am a careful, hardworking and highly motivated
 person, always eager to further develop my abilities. Currently, I am helping to
 create software for managing the finances of a dental office and testing the beta
 version from the user's perspective.
