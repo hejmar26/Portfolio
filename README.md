@@ -12,7 +12,7 @@ version from the user's perspective.
 
 # Tools and Technologies #
  
-* Jira 
+* Jira
 * Postman
 * Git
 * SoapUI
@@ -44,7 +44,7 @@ version from the user's perspective.
 
 # Certificates #
 
-* ["ISTQB®] (http://scr.istqb.org/?name=Hejmej&number=No19474%2FCTFL%2F2022&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No19474/CTFL/2022
+["ISTQB®](http://scr.istqb.org/?name=Hejmej&number=No19474%2FCTFL%2F2022&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No19474/CTFL/2022
 
 # Blogs read #
 
