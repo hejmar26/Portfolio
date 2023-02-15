@@ -35,16 +35,17 @@ version from the user's perspective.
 
 # Courses and Trainings #
 
-* [CodersLab - Manual Tester](https://coderslab.pl/pl/tester-manualny?utm_source=google&utm_medium=cpc&utm_campaign=TXT_BRAND_PRODUKTY&utm_content=OD_PODSTAW&utm_term=coders%20lab%20tester&utm_dvc=c_&utm_match=p&utm_pos=&utm_net=g&utm_plc=&id=124128705300&gclid=CjwKCAiA0JKfBhBIEiwAPhZXD_bVVBayC3dPuv0RQsCTOdT-6gwZ3zApVcJIhglZ0NxsOMiwQQsskxoCfSwQAvD_BwE&utm_adgroup=TEM&gclid=CjwKCAiA0JKfBhBIEiwAPhZXD_bVVBayC3dPuv0RQsCTOdT-6gwZ3zApVcJIhglZ0NxsOMiwQQsskxoCfSwQAvD_BwE)
-* [Basics of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)  - Udemy
-* [Practical software testing course](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy 
-* [SQL course from scratch | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/) - Udemy
-* [GIT Coures for Beginners](https://www.udemy.com/course/kurs-gita/) - Udemy
-* API Testing Fundations - Linkedin Learning Courses®
+* [CodersLab - Tester Manualny - CodersLab - Manual Tester](https://drive.google.com/file/d/1kEmsHThCk00BZo1H1ayDM4yAb4tscd4Z/view?usp=share_link)
+* [Podstawy manualnego testowania oprogramowania - Basics of manual software testing ](https://drive.google.com/file/d/1MZ1YGIdTKTumS9TwiovKqMNq-9cjj_yX/view?usp=share_link)  - Udemy
+* [Praktyczny kurs testowania oprogramowania - Practical software testing course](https://drive.google.com/file/d/1LJ9-ki0Lz-Bkwfg0bynIi6jnvIZhXsXa/view?usp=share_link/) - Udemy 
+* [Kurs SQL od podstaw | MySQL - SQL course from scratch | MySQL](https://drive.google.com/file/d/1hX6mrsZhyb41SpCSP-ev94_pvlm57y2U/view?usp=share_link) - Udemy
+* [Kurs Git dla początkujących - Git Course for Beginners](https://drive.google.com/file/d/1-dP6xZEEtFdfZ2kBT0d9t_5uHlK-FNWM/view?usp=share_link) - Udemy
+* [API Testing Fundations - Linkedin Learning Courses®](https://drive.google.com/file/d/1hj6_-7m8xt-B94XVz61yUFOaX-BO7Fx3/view?usp=share_link)
+* uTest Academy 
 
 # Certificates #
 
-["ISTQB®](http://scr.istqb.org/?name=Hejmej&number=No19474%2FCTFL%2F2022&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No19474/CTFL/2022
+["ISTQB®](https://drive.google.com/file/d/1woodsALYVFxB0VJZP8seCI6MFDWnB1nW/view?usp=share_link) No19474/CTFL/2022
 
 # Blogs read #
 
@@ -61,15 +62,11 @@ version from the user's perspective.
 
 # Test Cases #
 
-[Codibly Website](https://drive.google.com/file/d/1cep-yC145-oVg88FmIMQo0ZQ1CpRTr4W/view?usp=share_link)
-
-[CodersGuru Website](https://drive.google.com/file/d/1Arj62HBPMA0BEY4r9lMNBj2mwwTQSQ3R/view?usp=share_link)
+[CodersGuru Website](https://docs.google.com/spreadsheets/d/1Zwl3QuxEbZIMeH7_87UH9E5rwsjf1wjT/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
 # Bug reports #
 
-[Coibly Website Bug Report](https://drive.google.com/file/d/1f-SX1P9CxJIDJLmfJ-crcTRFdU47JHid/view?usp=share_link)
-
-[CodersGuru Website Bug Resports](https://drive.google.com/file/d/10e2JYQWk2qzRJf6sv8j6HU6Xp36vpfdP/view?usp=share_link)
+[CodersGuru Website Bug Resports](https://docs.google.com/spreadsheets/d/17fqwYB8rgYWEPgUK9QZSuYdR6BjMIF__/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
 
 
