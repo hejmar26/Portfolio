@@ -10,16 +10,13 @@ person, always eager to further develop my abilities. Currently, I am helping to
 create software for managing the finances of a dental office and testing the beta
 version from the user's perspective.
 
-# Tools and Technologies #
+# Tools, Technologies and Tech Skills #
  
 * Jira
 * Postman
 * Git
 * SoapUI
 * MS Office and Google
-
-# Tech Skills # 
-
 * SQL
 * DevTools
 * Software testing
@@ -37,7 +34,7 @@ version from the user's perspective.
 
 * [CodersLab - Tester Manualny - CodersLab - Manual Tester](https://drive.google.com/file/d/1kEmsHThCk00BZo1H1ayDM4yAb4tscd4Z/view?usp=share_link)
 * [Podstawy manualnego testowania oprogramowania - Basics of manual software testing ](https://drive.google.com/file/d/1MZ1YGIdTKTumS9TwiovKqMNq-9cjj_yX/view?usp=share_link)  - Udemy
-* [Praktyczny kurs testowania oprogramowania - Practical software testing course](https://drive.google.com/file/d/1LJ9-ki0Lz-Bkwfg0bynIi6jnvIZhXsXa/view?usp=share_link/) - Udemy 
+* [Praktyczny kurs testowania oprogramowania - Practical software testing course](https://drive.google.com/file/d/1LJ9-ki0Lz-Bkwfg0bynIi6jnvIZhXsXa/view?usp=share_link) - Udemy 
 * [Kurs SQL od podstaw | MySQL - SQL course from scratch | MySQL](https://drive.google.com/file/d/1hX6mrsZhyb41SpCSP-ev94_pvlm57y2U/view?usp=share_link) - Udemy
 * [Kurs Git dla początkujących - Git Course for Beginners](https://drive.google.com/file/d/1-dP6xZEEtFdfZ2kBT0d9t_5uHlK-FNWM/view?usp=share_link) - Udemy
 * [API Testing Fundations - Linkedin Learning Courses®](https://drive.google.com/file/d/1hj6_-7m8xt-B94XVz61yUFOaX-BO7Fx3/view?usp=share_link)
