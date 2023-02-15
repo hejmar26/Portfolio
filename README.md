@@ -62,6 +62,8 @@ version from the user's perspective.
 
 [CodersGuru Website](https://docs.google.com/spreadsheets/d/1Zwl3QuxEbZIMeH7_87UH9E5rwsjf1wjT/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
+[myStore Website - Cart](https://docs.google.com/document/d/1G-eJq2vLdED-nKmjvXME_Ez8FgugMd-eXh8p6jjjW58/edit?usp=share_link)
+
 # Bug reports #
 
 [CodersGuru Website Bug Resports](https://docs.google.com/spreadsheets/d/17fqwYB8rgYWEPgUK9QZSuYdR6BjMIF__/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
