@@ -14,7 +14,7 @@ version from the user's perspective.
  
 * Jira
 * Postman
-* Git
+* Git and GitHub
 * SoapUI
 * SQL
 * DevTools
