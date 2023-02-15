@@ -19,6 +19,7 @@ version from the user's perspective.
 * MS Office and Google
 * SQL
 * DevTools
+* MS Office and Google
 * Software testing
 * Creating test cases
 * Reporting bugs
