@@ -10,18 +10,15 @@ person, always eager to further develop my abilities. Currently, I am helping to
 create software for managing the finances of a dental office and testing the beta
 version from the user's perspective.
 
-# Tools and Technologies #
+# Tools, Technologies and Tech Skills #
  
 * Jira
 * Postman
 * Git
 * SoapUI
-* MS Office and Google
-
-# Tech Skills # 
-
 * SQL
 * DevTools
+* MS Office and Google
 * Software testing
 * Creating test cases
 * Reporting bugs
