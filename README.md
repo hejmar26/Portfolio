@@ -58,19 +58,30 @@ version from the user's perspective.
 * Testowanie oprogramowania
 * Testuj, Dziewczyno!
 
+# Test plan #
+
+[My Store test plan](https://github.com/hejmar26/Portfolio/blob/main/Mystore%20Testplan.md)
+
 # Test Cases #
 
 [CodersGuru Website](https://docs.google.com/spreadsheets/d/1Zwl3QuxEbZIMeH7_87UH9E5rwsjf1wjT/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
-[myStore Website - Cart](https://docs.google.com/document/d/1G-eJq2vLdED-nKmjvXME_Ez8FgugMd-eXh8p6jjjW58/edit?usp=share_link)
+[My Store Website - Cart - Jira](https://docs.google.com/document/d/1G-eJq2vLdED-nKmjvXME_Ez8FgugMd-eXh8p6jjjW58/edit?usp=share_link)
 
-[myStore Website - Sign in](https://docs.google.com/spreadsheets/d/1vvubcpjH1CiT6OlnX5spgvGdlOpAvIqg/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
+[My Store Website - Home Page](https://docs.google.com/spreadsheets/d/1nZ-CHZ4sz6valX4jpRVIxZrFKTFwKDEd/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
+
+[My Store Website - Login form](https://docs.google.com/spreadsheets/d/1vvubcpjH1CiT6OlnX5spgvGdlOpAvIqg/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
 # Bug reports #
 
 [CodersGuru Website Bug Resports](https://docs.google.com/spreadsheets/d/17fqwYB8rgYWEPgUK9QZSuYdR6BjMIF__/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
-[myStore Website - Bug reports](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link)
+[My Store Website - Home Page - Bug reports](https://docs.google.com/spreadsheets/d/1dxX7R4ipY9mIE5z-q26IMNZGVHAXWT6Gm2XQ4ECN4bw/edit?usp=share_link)
+
+[My Store Website - Login form - Bug reports](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link)
+
+# Test report #
+
 
 
 
