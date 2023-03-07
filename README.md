@@ -33,6 +33,11 @@ person, always eager to further develop my abilities. Currently, I am involved i
 # Practical experience #
 
 * [12. 2022 - CodersLab - Tester Manualny - CodersLab - Manual Tester](https://drive.google.com/file/d/1kEmsHThCk00BZo1H1ayDM4yAb4tscd4Z/view?usp=share_link)
+    * Creating test scenarios, test cases, test plans and test reports using Jira - TestFlo.
+    * Creating bug reports using Jira - TestFlo.
+    * Work at workshops using the SCRUM - Daily meetings methodology.
+    * API testing using tools such as Postman and SoapUI.
+    * Operations on databases using the SQL language and the MySQL Workbench tool
 * 01.2023 - uTest Academy
 * **In progress** - CodersLab - Tester Automatyzujący - CodersLab - Automated Tester
 
