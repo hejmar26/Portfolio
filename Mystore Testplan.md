@@ -73,6 +73,14 @@ Out of scope:
 * Successful login despite entering incorrect login credentials.
 * Successful login after entering incomplete login information.
 
+## Test cases ##
+
+[Login form](https://docs.google.com/spreadsheets/d/1vvubcpjH1CiT6OlnX5spgvGdlOpAvIqg/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
+
+## Bug raports ##
+
+[Login form](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link)
+
 ## Entry criteria ##
 
 * Internet access
