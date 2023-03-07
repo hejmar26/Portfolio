@@ -33,8 +33,8 @@ person, always eager to further develop my abilities. Currently, I am involved i
 # Practical experience #
 
 * [12. 2022 - CodersLab - Tester Manualny - CodersLab - Manual Tester](https://drive.google.com/file/d/1kEmsHThCk00BZo1H1ayDM4yAb4tscd4Z/view?usp=share_link)
-* [01.2023 - uTest Academy]
-* [**In progress** - CodersLab - Tester Automatyzujący - CodersLab - Automated Tester]
+* 01.2023 - uTest Academy
+* **In progress** - CodersLab - Tester Automatyzujący - CodersLab - Automated Tester
 
 # Courses and Trainings #
 
@@ -43,11 +43,12 @@ person, always eager to further develop my abilities. Currently, I am involved i
 * [10.2022 - Kurs SQL od podstaw | MySQL - SQL course from scratch | MySQL](https://drive.google.com/file/d/1hX6mrsZhyb41SpCSP-ev94_pvlm57y2U/view?usp=share_link) - Udemy
 * [02.2023 - Kurs Git dla początkujących - Git Course for Beginners](https://drive.google.com/file/d/1-dP6xZEEtFdfZ2kBT0d9t_5uHlK-FNWM/view?usp=share_link) - Udemy
 * [02. 2023 - API Testing Fundations - Linkedin Learning Courses®](https://drive.google.com/file/d/1hj6_-7m8xt-B94XVz61yUFOaX-BO7Fx3/view?usp=share_link)
-* [02. 2023 - Fundamenty Java - Codenga - Foundations of Java (Level 1, 2, 3) - Codenga](https://drive.google.com/drive/folders/1ScnaQoi5DdcfyvZ5N6hPtLxiIkMZyZw0?usp=share_link)
+* [02. 2023 - Fundamenty Java - Foundations of Java (Level 1, 2, 3) 
+](https://drive.google.com/drive/folders/1ScnaQoi5DdcfyvZ5N6hPtLxiIkMZyZw0?usp=share_link) - Codenga 
 
 # Certificates #
 
-[12.2022 -  "ISTQB®](https://drive.google.com/file/d/1woodsALYVFxB0VJZP8seCI6MFDWnB1nW/view?usp=share_link) No19474/CTFL/2022
+[12.2022 -   ISTQB®](https://drive.google.com/file/d/1woodsALYVFxB0VJZP8seCI6MFDWnB1nW/view?usp=share_link) No19474/CTFL/2022
 
 # Blogs read #
 
@@ -85,7 +86,7 @@ person, always eager to further develop my abilities. Currently, I am involved i
 [My Store Website - Login form - Bug reports](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link)
 
 # Test report #
-** In progress **
+**In progress**
 
 
 
