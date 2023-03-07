@@ -37,6 +37,13 @@ Out of scope:
 * Password reminder option
 * Link "No account? Create one"
 
+## Tools and technologies #
+
+* MSOffice Excel - creating test cases and defect reports.
+* MSOffice Word - creating test plan. 
+* DevTools - verification of page loading time and locating elements on the page.
+* Git and GitHub 
+
 ## Test pass criteria ##
 
 **Home Page**
@@ -75,9 +82,13 @@ Out of scope:
 
 ## Test cases ##
 
+[Home Page](https://docs.google.com/spreadsheets/d/1nZ-CHZ4sz6valX4jpRVIxZrFKTFwKDEd/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
+
 [Login form](https://docs.google.com/spreadsheets/d/1vvubcpjH1CiT6OlnX5spgvGdlOpAvIqg/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
 ## Bug raports ##
+
+[Home Page](https://docs.google.com/spreadsheets/d/1dxX7R4ipY9mIE5z-q26IMNZGVHAXWT6Gm2XQ4ECN4bw/edit?usp=share_link)
 
 [Login form](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link)
 
@@ -96,7 +107,7 @@ Out of scope:
 ## Testing enviroment ##
 
 macOS Ventura 13.0.1 
-Browser: Chrome version 108.0.5359.94 (Official Build) (arm64)
+Browser: Chrome version 110.0.5481.177 (Oficjalna wersja) (arm64)
 Access to the internet - WiFi
 
 ## Error management ##
