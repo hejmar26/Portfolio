@@ -64,7 +64,7 @@ version from the user's perspective.
 
 [myStore Website - Cart](https://docs.google.com/document/d/1G-eJq2vLdED-nKmjvXME_Ez8FgugMd-eXh8p6jjjW58/edit?usp=share_link)
 
-[myStore Website - Sign in](https://docs.google.com/spreadsheets/d/1PGCwGcirqT84XRGaE-NkJ21B3zYJWySq/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
+[myStore Website - Sign in](https://docs.google.com/spreadsheets/d/1vvubcpjH1CiT6OlnX5spgvGdlOpAvIqg/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true)
 
 # Bug reports #
 
