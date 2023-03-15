@@ -91,7 +91,8 @@ person, always eager to further develop my abilities. Currently, I am involved i
 [My Store Website - Login form - Bug reports](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link)
 
 # Test report #
-**In progress**
+[My Store test report](https://github.com/hejmar26/Portfolio/blob/main/Mystore%20Test%20report.md)
+
 
 
 
