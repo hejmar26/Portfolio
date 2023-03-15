@@ -63,15 +63,15 @@ Out of scope:
 | TCHP_16 | Checking whether the "All products" tab is displayed correctly. | PASSED |
 | TCHP_17 | Verification of the functionality of the ''All products'' tab. | PASSED |
 | TCHP_18 | Checking whether the "20% OFF" banner is displayed correctly. | PASSED |
-| TCHP_19 | Verification of the functionality of the "20% OFF" banner. | * FAILED * |
-| TCHP_20 | Checking whether the banner below "20% OFF" banner is displayed correctly. | * FAILED * |
+| TCHP_19 | Verification of the functionality of the "20% OFF" banner. | *FAILED* |
+| TCHP_20 | Checking whether the banner below "20% OFF" banner is displayed correctly. | *FAILED* |
 
 ### Login form ###
 
 |Test Case ID | Title | Status |
 |-------------|-------|--------|
 | TC_01 | Logging into the system with correct data. | PASSED |
-| TC_02 | Logging in with uppercased email adress | * FAILED * |
+| TC_02 | Logging in with uppercased email adress | *FAILED* |
 | TC_03 | Logging in without enetring the password | PASSED | 
 | TC_04 | Logging in without enetring email | PASSED | 
 
