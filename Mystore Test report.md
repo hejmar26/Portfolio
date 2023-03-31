@@ -78,14 +78,14 @@ Out of scope:
 
 ## Found defects ##
 
-### Home Page ###
+### [Home Page](https://docs.google.com/spreadsheets/d/1dxX7R4ipY9mIE5z-q26IMNZGVHAXWT6Gm2XQ4ECN4bw/edit?usp=share_link) ###
 
 | Bug ID | Title | Test Case ID | 
 |--------|-------|--------------|
 | BHP_01 | Invalid redirection occurs after clicking on the ''20% OFF'' banner. | TCHP_19 |
 | BHP_02 | Invalid display of the banner. | TCHP_20 | 
 
-### Login form ###
+### [Login form](https://docs.google.com/spreadsheets/d/1mKYzLjqNgIXlfuLtrdpML1oML176PoANYb0aZdFahBM/edit?usp=share_link) ###
 
 | Bug ID | Title | Test Case ID | 
 |--------|-------|--------------|
