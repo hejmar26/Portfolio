@@ -41,7 +41,7 @@ Out of scope:
 
 ## Status of executed test cases ##
 
-### Home Page ###
+### [Home Page](https://docs.google.com/spreadsheets/d/1nZ-CHZ4sz6valX4jpRVIxZrFKTFwKDEd/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true) ###
 
 |Test Case ID | Title | Status |
 |-------------|-------|--------|
@@ -66,7 +66,7 @@ Out of scope:
 | TCHP_19 | Verification of the functionality of the "20% OFF" banner. | *FAILED* |
 | TCHP_20 | Checking whether the banner below "20% OFF" banner is displayed correctly. | *FAILED* |
 
-### Login form ###
+### [Login form](https://docs.google.com/spreadsheets/d/1vvubcpjH1CiT6OlnX5spgvGdlOpAvIqg/edit?usp=share_link&ouid=113544491954800210650&rtpof=true&sd=true) ###
 
 |Test Case ID | Title | Status |
 |-------------|-------|--------|
