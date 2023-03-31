@@ -2,7 +2,7 @@
 
 ## Description ##
 
-This document aims to summarize the testing process of the My Store online shop. The functionalities tested included the homepage and login form.
+This document aims to summarize the testing process of the [My Store](https://mystore-testlab.coderslab.pl/index.php) online shop. The functionalities tested included the homepage and login form.
 
 During the testing process, the following steps were taken:
 
